@@ -1,1 +1,2 @@
-# Bangalore-home-price-prediction
+Bangalore Home Price Prediction
+This project is a machine learning web application built with Python and Streamlit that predicts the price of homes in Bangalore based on various parameters like location, total square footage, number of bathrooms, and number of bedrooms (BHK).
